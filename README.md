@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Third-year Computer Science student at Damietta University, Egypt. I build web apps with React, Next.js, and TypeScript, and I'm looking for a front-end internship or junior role where I can learn from experienced engineers and ship real features. Open to remote, on-site, or hybrid.
+Computer Science student at Damietta University, Egypt. I build web apps with React, Next.js, and TypeScript, and I'm looking for a front-end internship or junior role where I can learn from experienced engineers and ship real features. Open to remote, on-site, or hybrid.
 
 ### 🛠️ Tech Stack
 
